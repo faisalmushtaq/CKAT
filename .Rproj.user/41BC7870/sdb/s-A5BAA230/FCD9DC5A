@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle       : Pre-Meeting Intro and Demo\nsubtitle    : CKAT- The ‘Clinical  Kinematic Assessment  Tool’\nauthor      : Prof Mark Mon-Williams, Dr Faisal Mushtaq, Dr Chris Brown\njob         : University of Leeds\nframework   : io2012        # {io2012, html5slides, shower, dzslides, ...}\nhighlighter : prettify  # {highlight.js, prettify, highlight}\nhitheme     : tomorrow      # \nwidgets     : [bootstrap]  # {mathjax, quiz, bootstrap}\nmode        : selfcontained # {standalone, draft}\nknit        : slidify::knit2slides\n---\n\n## Introduction\n\n* Mark Mon-Williams: Professor of Cognitive Psychology, primary investigator and academic lead for CKAT development\n<div style=\"position: relative; left: 16700; top: 0px; z-index:200\">\n<img src='assets/img/monwilliams.jpg' height=\"100px\" width=\"100px\">\n</div>\n\n* Chris Brown: IP & Commercialisation Officer, Research and Innovations Services \n<div style=\"position: relative; left: 16700; top: 0px; z-index:200\">\n<img src='assets/img/brown.jpg' height=\"100px\" width=\"100px\">\n</div>\n\n* Faisal Mushtaq: Tenure track academic, facilitated refinement of CKAT analysis pipeline\n<div style=\"position: relative; left: 16700; top: 0px; z-index:200\">\n<img src='assets/img/mushtaq.png' height=\"100px\" width=\"100px\">\n</div>\n\n--- .class ##id \n\n## Background\n\n* The Clinical Kinematic Assessment Tool (CKAT) runs on portable tablet computers and presents brief tests capable of recording high resolution, accurate measures of children’s manual dexterity \n\n* Across a series of tasks, children use a stylus to track moving targets, aim at static objects and steer through paths\n\n* Data have been collected on >10,000 children to date \n\n* The screen recording on the next slide has been extracted at low-resolution for illustration purposes only\n\n* We look forward to meeting you on Friday and addressing your questions...\n\n--- .class ##id \n\n## Demonstration\n\n<iframe width=\"480\" height=\"280\" src=\"https://www.youtube.com/embed/fY-vcn6iYZE\" frameborder=\"0\"></iframe> ",
+    "created" : 1498666779989.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "23627855",
+    "id" : "FCD9DC5A",
+    "lastKnownWriteTime" : 1498668779,
+    "last_content_update" : 1498668779367,
+    "path" : "~/Dropbox/Work/Miscellaneous/CKAT/Presentations/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
