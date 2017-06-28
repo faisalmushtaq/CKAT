@@ -44,4 +44,4 @@ knit        : slidify::knit2slides
 
 ## Demonstration
 
-<iframe width="300" height="200" src="https://www.youtube.com/embed/fY-vcn6iYZE" frameborder="0"></iframe> 
+<iframe width="300" height="200" src="https://www.youtube.com/embed/qGQXN5HLhu4" frameborder="0"></iframe> 
