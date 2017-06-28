@@ -15,17 +15,15 @@ knit        : slidify::knit2slides
 
 * Mark Mon-Williams: Professor of Cognitive Psychology, primary investigator and academic lead for CKAT development
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/monwilliams.jpg' height="100px" width="100px">
+<img src='assets/img/mmw.jpg' height="90px" width="90px">
 </div>
-
 * Chris Brown: IP & Commercialisation Officer, Research and Innovations Services 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/brown.jpg' height="100px" width="100px">
+<img src='assets/img/brown.jpg' height="90px" width="90px">
 </div>
-
 * Faisal Mushtaq: Tenure track academic, facilitated refinement of CKAT analysis pipeline
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/mushtaq.png' height="100px" width="100px">
+<img src='assets/img/mushtaq.png' height="90px" width="90px">
 </div>
 
 --- .class ##id 
@@ -36,9 +34,9 @@ knit        : slidify::knit2slides
 
 * Across a series of tasks, children use a stylus to track moving targets, aim at static objects and steer through paths
 
-* Data have been collected on >10,000 children to date 
+* The screen recording on the next slide has been extracted at low-resolution for illustration purposes only- the stimuli display at native resolution
 
-* The screen recording on the next slide has been extracted at low-resolution for illustration purposes only
+* Data have been collected on >10,000 children to date
 
 * We look forward to meeting you on Friday and addressing your questions...
 
@@ -46,4 +44,4 @@ knit        : slidify::knit2slides
 
 ## Demonstration
 
-<iframe width="480" height="280" src="https://www.youtube.com/embed/fY-vcn6iYZE" frameborder="0"></iframe> 
+<iframe width="300" height="200" src="https://www.youtube.com/embed/fY-vcn6iYZE" frameborder="0"></iframe> 
